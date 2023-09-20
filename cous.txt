@@ -1,3 +1,6 @@
 aws
 DevOps
 java
+c,c++
+python
+data sicence
